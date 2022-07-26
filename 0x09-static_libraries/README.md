@@ -1,1 +1,1 @@
-My readme file for task 0x09 static libraries
+My readme file for 0x09 static libraries task
